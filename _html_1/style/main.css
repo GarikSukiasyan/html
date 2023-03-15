@@ -1,0 +1,78 @@
+@font-face {
+    font-family: 'Bahnschrift';
+    src: url('/font/BAHNSCHRIFT.TTF') format('truetype');
+}
+
+.myCol1 {
+    font-size: 48px;
+    font-family: Bahnschrift;
+}
+
+.myCol2 {
+    font-size: 30px;
+    font-family: Bahnschrift;
+}
+
+.myCol3
+{
+    font-size: 30px;
+    font-family: Bahnschrift;
+    color: white;
+}
+
+.blk2 {
+    background-color: #343A40;
+}
+
+.blk3 {
+    background-color: white;
+}
+
+.blk4 {
+    background-color: #343A40;
+}
+
+.blk5 {
+    background-color: white;
+}
+
+.blkend {
+    background-color: #343A40;
+    color: white;
+}
+
+.myblk1 {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    color: red;
+}
+
+.myText1{
+    font-family: Bahnschrift;
+    font-size: 24px;
+}
+
+.p{
+    font-family: Bahnschrift;
+    font-size: 18px;
+}
+
+.price{
+    font-family: Bahnschrift;
+    font-size: 36px;
+
+}
+
+.my-btn{
+    background-color: white;
+}
+
+.mycard{
+    background-color: #343A40;
+    background-color: red;
+}
+
+.card {
+    height: 100%;
+}

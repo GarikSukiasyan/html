@@ -1,0 +1,115 @@
+@font-face {
+    /* название шрифта(чтобы не запутаться лучше указать название папки со шрифтом)  */
+    font-family: "RalewayRegular"; 
+    /* адрес шрифта и тип */
+    src: url('fonts/OpenSans-ExtraBold.ttf') format("truetype"); 
+    font-style: normal; 
+    font-weight: normal; 
+} 
+
+.bgnav{
+    background-color: #313030;
+    color: #f6f2f2;
+}
+
+.colNavText {
+    color: #f6f2f2;
+}
+
+.colNavText:hover {
+    color: #f6f2f2;
+    background-color: red;
+}
+
+/* Блок 1  */
+.bg1 {
+    background: #f6f2f2;
+}
+
+.Title1{
+    font-size: 60px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+}
+
+.Title33{
+    font-size: 20px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+}
+
+.Title3{
+    font-size: 30px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+}
+
+.Text1{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: #000000;
+}
+
+.mybtn {
+    /* Rectangle 18 */
+    width: 230px;
+    height: 58px;
+    background: rgba(255, 45, 45, 1);
+
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 13px;
+    color: #FFFFFF;
+
+}
+
+.mybtn2 {
+    /* Rectangle 18 */
+    width: 230px;
+    height: 58px;
+    background: white;
+    color: rgba(255, 45, 45, 1);
+    border: 5px solid rgba(255, 45, 45, 1);
+
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 13px;
+
+}
+
+
+/* Блок 2  */
+
+.T2 {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 27px;
+}
+
+
+
+
+.bgend{
+    background: rgba(49, 48, 48, 1);
+    color: rgb(120, 115, 115);
+}
+
+
+.b4link{
+    color: rgba(49, 48, 48, 1);
+    text-decoration: none;
+}
+
+.b4link:hover{
+    color: rgba(255, 45, 45, 1);
+    text-decoration: none;
+}
+
+.Title333{
+    font-size: 20px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.bg5Block{
+    background-color: #c8a8a8;
+}
+
+.b5Title{
+    font-size: 50px;
+}

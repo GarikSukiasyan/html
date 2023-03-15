@@ -1,0 +1,114 @@
+@font-face {
+/* // название шрифта(чтобы не запутаться лучше указать название папки со шрифтом)  */
+font-family: "aachenbt-roman"; 
+/* // адрес шрифта и тип  */
+src: url("../fonts/Aachen_BT_Roman.ttf") format("truetype"); 
+font-style: normal; 
+font-weight: normal; 
+} 
+
+.NavTextMy{
+    color: #FFFFFF;
+    font-family: "aachenbt-roman";
+}
+
+.B1Title{
+    font-family: "aachenbt-roman";
+    color: #E58F00;
+    font-size: 67px;
+    font-weight: 400;
+}
+
+.B1Text{
+    color: #FFFFFF;
+    font-family: "aachenbt-roman";
+    font-size: 25px;
+    font-weight: 400;
+    width: 519px;
+}
+
+.Mybg-color{
+    background-image: url("../images/bg.png");
+    background-size: 100%; /* Ширина картинки */
+    background-color: RGBA(40, 40, 45, 0.9490196078431372);
+}
+
+.B2Title{
+    font-family: "aachenbt-roman";
+    color: #FFFFFF;
+    font-size: 67px;
+    font-weight: 400;
+}
+
+.B2Text{
+    color: #FFFFFF;
+    font-family: "aachenbt-roman";
+    font-size: 25px;
+    font-weight: 400;
+    width: 519px;
+}
+
+.Mybg0-color{
+    background-color: #333338;
+}
+
+.Mybg2-color{
+    background-color: RGBA(40, 40, 45, 0.9490196078431372);
+}
+
+.Mybg5-color{
+    background-image: url("../images/bg5.png");
+    background-size: 100%; /* Ширина картинки */
+    background-color: RGBA(40, 40, 45, 0.9490196078431372);
+}
+
+.B5Title{
+    font-family: "aachenbt-roman";
+    color: #FFFFFF;
+    font-size: 67px;
+    font-weight: 400;
+}
+
+.B5Text{
+    color: #FFFFFF;
+    font-family: "aachenbt-roman";
+    font-size: 33px;
+    font-weight: 400;
+}
+
+.ramka {
+    border: 5px solid RGBA(229, 143, 0, 1);
+    padding: 10px;
+}
+
+.B6Title{
+    font-family: "aachenbt-roman";
+    color: #E58F00;
+}
+
+.B6Text{
+    color: #FFFFFF;
+    font-family: "aachenbt-roman";
+}
+
+.B6Price{
+    font-family: "aachenbt-roman";
+    color: #E58F00;
+}
+
+.Mybg7-color{
+    background-color: RGBA(40, 40, 45, 0.9490196078431372);
+}
+
+.Mybg8-color{
+    background-color: RGBA(40, 40, 45, 0.9490196078431372);
+}
+
+.B8Text{
+    color: #FFFFFF;
+    font-family: "aachenbt-roman";
+}
+
+.MyCardColor{
+    background-color: #333338;
+}
