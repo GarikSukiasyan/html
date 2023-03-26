@@ -1,3 +1,4 @@
 # html
 
-Портфолио моих html
+Верстка по макетам 
+htnl + css + bootstrap 
